@@ -150,12 +150,7 @@ You are free to use, modify, and distribute this project with proper attribution
 
 ---
 
-## 🌟 Acknowledgements
 
-* Inspired by the need to simplify algorithm learning
-* Thanks to all contributors who help make learning visual and fun
 
----
 
-### 🚀 Happy Coding & Visualizing Algorithms!
 
